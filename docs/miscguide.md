@@ -523,7 +523,8 @@
 * [GamesRecap](https://gamesrecap.io/) - Game Annoucements / Trailers
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
-
+[TechPowerUp](https://www.techpowerup.com/) - Reviews and information about specific components and models
+[VideoCardz.com](https://videocardz.com/) and [VideoCardz.net](https://videocardz.net/) -.com for news and .net for specific components and models
 ***
 
 ## ▷ Science News
